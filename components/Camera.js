@@ -13,7 +13,7 @@ export default class CameraTest extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-			//check why ratio and flash aint working
+			//check why ratio and flash aint working, still not checked.
 			ratio: '16:9',
       hasCameraPermission: null,
 			type: Camera.Constants.Type.back,
