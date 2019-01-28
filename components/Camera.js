@@ -70,13 +70,6 @@ export default class CameraTest extends React.Component {
 			loading:false
 		}));
 
-		// Alert.alert(
-		// 	this.state.identifedAs,
-		// 	'',
-		// 	{ cancelable: false }
-		//   )
-
-		// rework this so it display everything :D
 		Alert.alert(
 			'Alert Title',
 			'My Alert Msg',
